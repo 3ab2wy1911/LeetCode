@@ -1,4 +1,4 @@
-package Day1;
+package Day01;
 //1662. Check If Two String Arrays are Equivalent
 class Solution {
     public boolean arrayStringsAreEqual(String[] word1, String[] word2) {
