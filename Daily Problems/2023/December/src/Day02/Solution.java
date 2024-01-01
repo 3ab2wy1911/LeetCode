@@ -1,4 +1,4 @@
-package Day2;
+package Day02;
 //1160. Find Words That Can Be Formed by Characters
 class Solution {
     public int countCharacters(String[] words, String chars) {
