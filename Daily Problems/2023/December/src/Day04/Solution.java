@@ -1,4 +1,4 @@
-package Day4;
+package Day04;
 //2264. Largest 3-Same-Digit Number in String
 class Solution {
     public String largestGoodInteger(String num) {
