@@ -1,4 +1,4 @@
-package Day6;
+package Day06;
 //1716. Calculate Money in Leetcode Bank
 class Solution {
     public int totalMoney(int n) {
