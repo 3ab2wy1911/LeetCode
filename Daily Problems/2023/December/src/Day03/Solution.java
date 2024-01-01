@@ -1,4 +1,4 @@
-package Day3;
+package Day03;
 //1266. Minimum Time Visiting All Points
 class Solution {
     public int minTimeToVisitAllPoints(int[][] points) {
