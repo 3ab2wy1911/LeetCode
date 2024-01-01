@@ -1,4 +1,4 @@
-package Day7;
+package Day07;
 //1903. Largest Odd Number in String
 class Solution {
     public String largestOddNumber(String num) {
